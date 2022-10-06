@@ -6,6 +6,7 @@ Quality Check for the extrcated DNA, quantifying NGS libraries.
 
 :Author: Vnay K L.
 :Copyright: None
+:Date: 06/10/2022
 
 
 Purpose
@@ -40,3 +41,6 @@ Qubit is the preferred method of DNA quantification due to its sensitivity.
 #. To calibre, add 190ul of working solution and 10ul of Standard '#1' and Standard '#2' and vortex for 15 seconds. Incubate the tubes at room temperature for about 2 minutes.
 #. Once calibrated, add 198ul of working solution to each Qubit tubes per sample and 2ul of sample and vortex. Incubate for 2 minutes.
 #. Note down the concentration readings and discard the tubes.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
