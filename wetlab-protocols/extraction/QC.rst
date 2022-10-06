@@ -4,7 +4,7 @@
 Quality Check for the extrcated DNA, quantifying NGS libraries.
 ===============================================================
 
-:Author: Vnay K L.
+:Author: Vinay K L
 :Copyright: None
 :Date: 06/10/2022
 
