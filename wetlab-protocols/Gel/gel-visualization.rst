@@ -5,7 +5,7 @@
 Gel Visualiation
 ================
 
-:Author: Vnay K L.
+:Author: Vinay K L
 :Copyright: None
 
 
