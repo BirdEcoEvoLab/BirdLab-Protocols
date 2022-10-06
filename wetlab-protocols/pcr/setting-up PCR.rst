@@ -19,12 +19,13 @@ Steps
 #. Stock primers are ordered at a concentration of 100mMol and 25ng.
 #. General practice is to prepare 5mMol primers pair from the stock solution. (Add 5ul of Forward and 5ul of Reverse primers to 90ul of Nucleus Free water to obtain a final 5mMol concentration)
 #. Following are the general composition and constituents to set up a PCR reaction.
+
 +----------------------+----------+
 | constituents         | For 1x   |
 +======================+==========+
 | DNA                  | 2ul      |
 +----------------------+----------+
-| Master Mix(MM)        | 5ul     |
+| Master Mix(MM)       | 5ul      |
 +----------------------+----------+
 | Primers (F+R)        | 1ul      |
 +----------------------+----------+
@@ -40,4 +41,4 @@ NOTE: For Sanger's sequencing, Medauxin and Aggrigenome asks for a total of 20ul
 #. While setting up for the first time; create a new user with your name and save the desired programme.
 #. Book the machine slots by using the QR code available next to PCR machine.
 #. Typical programme runs for about 2 to 2.5 hours, but varies depends on the number of cycles.
-#. Once the programme finished running, visualize the PCR product by running on agarose gel to determine the amplicon size and success of PCR. 
+#. Once the programme finished running, visualize the PCR product by running on agarose gel to determine the amplicon size and success of PCR.
