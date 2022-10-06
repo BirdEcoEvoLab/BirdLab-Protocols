@@ -21,7 +21,7 @@ Steps
 #. Following are the general composition and constituents to set up a PCR reaction.
 
 +----------------------+----------+
-| constituents         | For 1x   |
+| Constituents         | For 1x   |
 +======================+==========+
 | DNA                  | 2ul      |
 +----------------------+----------+
@@ -41,4 +41,5 @@ NOTE: For Sanger's sequencing, Medauxin and Aggrigenome asks for a total of 20ul
 #. While setting up for the first time; create a new user with your name and save the desired programme.
 #. Book the machine slots by using the QR code available next to PCR machine.
 #. Typical programme runs for about 2 to 2.5 hours, but varies depends on the number of cycles.
-#. Once the programme finished running, visualize the PCR product by running on agarose gel to determine the amplicon size and success of PCR.
+#. Once the programme finishes running, visualize the PCR product by running on agarose gel to determine the amplicon size and success of PCR. (Refer next section "Gel" for further details)
+#. Clean the pipettes and your work bench after you finished working. 
