@@ -28,7 +28,7 @@ Steps to prepare Stock 10X TBE Buffer (500ml)
 
 Steps to prepare GelRed solution
 --------------------------------
-Unlike the traditional way of adding Gelred directly to agarose gel during casting we pre-mix the loading dye and Gelred.
+Unlike the traditional way of adding Gelred directly to agarose gel during casting, we pre-mix the loading dye and Gelred.
 
 #. Prepare the Orange G loading dye by mixing 200mg of dye in 15ml double distilled water and add 5ml of 30% Glycerol.
 #. Add 40ul of GelRed and and 960 ul of OrangeG dye mixture in amber 1.5ml MCT and make sure to wrap the MCT in aluminum foil (GelRed is light sensitive)
