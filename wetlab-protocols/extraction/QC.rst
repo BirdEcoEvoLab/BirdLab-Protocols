@@ -1,4 +1,4 @@
-. include:: ../../links.rst
+.. include:: ../../links.rst
 .. |date| date:: %d %B %Y %H:%M %Z (%z)
 
 Quality Check for the extrcated DNA, quantifying NGS libraries.
@@ -14,7 +14,7 @@ To quantify the concentration of extracted DNA and NGS libraries.
 
 Two methods of quantification
 
-#. Nanodrop
+Nanodrop
 ------------
 We do not have this in our lab, but if required, use the ones in Ram's lab (Nanophoto meter) or the one in Ashwani Sharma's lab at Chemistry department.
 
@@ -29,7 +29,7 @@ Steps
 
 
 
-#.. Qubit
+Qubit
 
 Qubit is the preferred method of DNA quantification due to its sensitivity.
 
@@ -38,4 +38,4 @@ Qubit is the preferred method of DNA quantification due to its sensitivity.
 #. Check the last date of calibration. If the last calibration is older than a week, make sure to calibre the machine with Standards.
 #. To calibre, add 190ul of working solution and 10ul of Standard '#1' and Standard '#2' and vortex for 15 seconds. Incubate the tubes at room temperature for about 2 minutes.
 #. Once calibrated, add 198ul of working solution to each Qubit tubes per sample and 2ul of sample and vortex. Incubate for 2 minutes.
-#. Note down the concentration readings and discard the tubes. 
+#. Note down the concentration readings and discard the tubes.
