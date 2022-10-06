@@ -33,4 +33,9 @@ Steps
 
 Qubit is the preferred method of DNA quantification due to its sensitivity.
 
-#. 
+#. Take out the working solution from fridge and let it sit at room temperature for ~15 minutes.
+#. Turn on the Qubit machine and select DNA -> 1X HS High sensitivity option.
+#. Check the last date of calibration. If the last calibration is older than a week, make sure to calibre the machine with Standards.
+#. To calibre, add 190ul of working solution and 10ul of Standard '#1' and Standard '#2' and vortex for 15 seconds. Incubate the tubes at room temperature for about 2 minutes.
+#. Once calibrated, add 198ul of working solution to each Qubit tubes per sample and 2ul of sample and vortex. Incubate for 2 minutes.
+#. Note down the concentration readings and discard the tubes. 
