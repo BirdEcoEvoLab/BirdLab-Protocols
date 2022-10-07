@@ -1,4 +1,4 @@
-. include:: ../../links.rst
+.. include:: ../../links.rst
 .. |date| date:: %d %B %Y %H:%M %Z (%z)
 
 Qiaxcel handling
