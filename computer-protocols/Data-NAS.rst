@@ -38,7 +38,7 @@ Steps
   .. image:: /images/NAS_Step5
 
 #. Logout once you done with your work.
-  .. image:: ../images/NAS_Step6
+  .. image:: ../images/NAS_Step6.png
 
 
 Mounting NAS to the system(s) connected to institute network (Use this only if you want to run any analysis directly from the Synology)
