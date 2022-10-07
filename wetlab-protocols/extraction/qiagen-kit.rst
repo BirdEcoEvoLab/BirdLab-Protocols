@@ -7,7 +7,7 @@ Extraction using Qiagen kit
 
 :Author: Vinay K L
 :Copyright: None
-:date: 06/10/2022
+:Date: 06/10/2022
 
 -------------------------------
 

@@ -5,7 +5,7 @@ Set up PCR for single/multigene
 ===============================
 
 
-:Author: Vnay K L.
+:Author: Vinay K L
 :Copyright: None
 :Date: 06/10/2022
 
@@ -41,5 +41,5 @@ NOTE: For Sanger's sequencing, Medauxin and Aggrigenome asks for a total of 20ul
 #. While setting up for the first time; create a new user with your name and save the desired programme.
 #. Book the machine slots by using the QR code available next to PCR machine.
 #. Typical programme runs for about 2 to 2.5 hours, but varies depends on the number of cycles.
-#. Once the programme finishes running, visualize the PCR product by running on agarose gel to determine the amplicon size and success of PCR. (Refer next section "Gel" for further details)
-#. Clean the pipettes and your work bench after you finished working. 
+#. Once the programme finishes running, visualize the PCR product by running on 1.5% agarose gel to confirm the amplicon size and success of PCR. (Refer next section "Gel" for further details)
+#. Clean the pipettes and your work bench after you finished working.
