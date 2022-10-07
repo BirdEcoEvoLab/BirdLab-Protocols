@@ -23,7 +23,7 @@ Steps
 -----
 
 #. Go-to your desired browser and type 172.27.6.205 (Please note that you can access ONLY if you are in the institute network)
-       .. image::/images/NAS_Step1
+       .. image:: /images/NAS_Step1.png
 
 #. Enter the credentials given to you in the following window and sign in.
        .. image:: /images/NAS_Step2
