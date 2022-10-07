@@ -23,22 +23,22 @@ Steps
 -----
 
 #. Go-to your desired browser and type 172.27.6.205 (Please note that you can access ONLY if you are in the institute network)
-   .. image::/images/NAS_Step1
+       .. image::/images/NAS_Step1
 
 #. Enter the credentials given to you in the following window and sign in.
-   .. image:: /images/NAS_Step2
+       .. image:: /images/NAS_Step2
 
 #. By default, it will take you to root folder for which your account has access only.
-   .. image:: /images/NAS_Step3
+       .. image:: /images/NAS_Step3
 
 #. To upload files, use the option upload (either Upload skip or Upload Overwrite)
-   .. image:: /images/NAS_Step4
+       .. image:: /images/NAS_Step4
 
 #. Right Click on the file/folder for more options such as Download back to computer/Delete from the Synology Disk station etc.
-  .. image:: /images/NAS_Step5
+       .. image:: /images/NAS_Step5
 
 #. Logout once you done with your work.
-  .. image:: ../images/NAS_Step6.png
+     .. image:: ../images/NAS_Step6.png
 
 
 Mounting NAS to the system(s) connected to institute network (Use this only if you want to run any analysis directly from the Synology)
