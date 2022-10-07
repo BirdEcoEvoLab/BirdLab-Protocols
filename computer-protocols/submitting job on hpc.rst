@@ -20,7 +20,7 @@ To set up a job on the HPC cluster.
 #. PBS is used as job scheduler and handler and below is a PBS template for reference.
 
 +---------------------------------------------------------------------------------------+
-|#PBS -N Name_reflecting_in_queue                                                       |
+|#PBS -N Name_reflecting_in_queue   \                                                    |
 |#PBS -q iiser                                                                          |
 |#PBS -l select=1:ncpus=40                                                              |
 |#PBS -l walltime=128:00:00                                                             |
