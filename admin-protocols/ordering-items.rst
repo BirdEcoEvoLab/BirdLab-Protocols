@@ -71,10 +71,8 @@ Rate Contract essentially means that some vendor has agreed to supply particular
 #. No need to submit Test Report (Explained below), and invoice can be submitted for reimbursements directly (See Bill Submission guidelines)
 
 
-
 What to do once you receive the item?
 -------------------------------------
-
 #. For all the items, irrespective of its kind, one needs to prepare **Test Report**
 #. Test report is an acknowledgement that we have received the said items in correct condition without any damage.
 #. There are two types of Test Reports a) For Consumables b) For non-consumables. Make sure to use the correct one. TR is available from intranet (172.27.1.51)
