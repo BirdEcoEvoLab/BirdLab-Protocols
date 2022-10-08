@@ -42,7 +42,7 @@ Ordering generally follows the total amount of the item/items. And based on the 
 
 3) If the items (mostly for consumables) are under **RATE CONTRACT (RC)**
 --------------------------------------------------------------------
-Rate Contract essentially means that some vendor has agreed to supply particular company items at 10% discounted rate. List of vendors and companies under RC will be with TA's.
+#. Rate Contract essentially means that some vendor has agreed to supply particular company items at 10% discounted rate. List of vendors and companies under RC will be with TA's.
 #. If the item, one trying to procure is under RC, then irrespective of value of the indent, one has to prepare the **general indent**.
 #. For this, you need only one quotation, i.e from the vendor under RC.
 #. Items should be segregated based on the company and not the supplier. (Same vendor can be under RC for multiple company products, so, while ordering make sure you put together items from same company under same quotation and indent)
