@@ -50,7 +50,7 @@ Steps
 #. Launch/Start the Synology Assistant from the Desktop
         .. image:: /images/NAS_Step7.png
 
-#. It will automatically search for the available Synology device on the network and show up the ''vvrobin_nasbox'' then click Map drive.
+#. It will automatically search for the available Synology device on the network and show up the **vvrobin_nasbox** then click Map drive.
       .. image:: /images/NAS_Step8.png
 
 #. Enter your NAS login credentials and click next

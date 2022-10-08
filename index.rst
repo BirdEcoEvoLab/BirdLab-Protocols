@@ -6,8 +6,6 @@
 BirdLab (skyiskand.in) documentation
 ===========================
 
-Commit \ |version|. (:ref:`Changelog`)
-
 :Primary Author: Vinay K L
 :Date: |date|
 :Copyright: None.
