@@ -16,6 +16,8 @@ Guidelines for field sampling and mistnetting.
 A) Preparation of Kit
 ---------------------
 A Mist-netting kit (including blood sampling) involves the following items
+
+
 #. Mist nets of different lengths: The most commonly used in our lab is 15m long net while in some cases having a few 6m long nets also help target catch some species. Mist-nets should be carried in polythene bags. One bag per net.
 #. Poles: EcoTone’s telescopic carbon fibre poles are used. We also have some metal poles. Two poles per net should be calculated
 #. Ropes: Jute ropes are generally used. Two ropes per net should be calculated.
