@@ -1,7 +1,7 @@
 .. include:: ../../links.rst
 .. |date| date:: %d %B %Y %H:%M %Z (%z)
 
-Submission of job on HPC
+Mistnetting guidelines : Checklist, Do's and Don'ts
 ===============================
 
 
