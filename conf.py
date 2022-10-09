@@ -83,7 +83,8 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+#html_theme = 'alabaster'
+html_theme = "sphinx_rtd_theme"
 html_theme_path = ["_themes", ]
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -111,7 +112,7 @@ html_static_path = ['BirdLab-protocolsstatic']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'BirdLab-Documentationdoc'
+htmlhelp_basename = 'BirdLab-Documentation'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -197,8 +198,3 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
-
-
-
-html_theme = "sphinx_rtd_theme"
-html_theme_path = ["_themes", ]
