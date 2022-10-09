@@ -1,31 +1,15 @@
-.. BirdLab at IISER Tirupati protocols, compiled by Vinay K L
+.. BirdLab-Documentation documentation master file, created by
+   sphinx-quickstart on Sun Oct  9 19:21:47 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-.. include:: links.rst
-.. |date| date:: %d %B %Y %H:%M %Z (%z)
+Welcome to BirdLab-Documentation's documentation!
+=================================================
 
-BirdLab (skyiskand.in) documentation
-===========================
-
-:Primary Author: Vinay K L
-:Date: |date|
-:Copyright: None.
-
-
-Protocols
-=========
 .. toctree::
-    :maxdepth: 2
-    :caption: Contents:
+   :maxdepth: 2
+   :caption: Contents:
 
-    wetlab-protocols/main
-    computer-protocols/main
-    admin-protocols/main
-    field_sampling-protocols/main
-
-Other Info
-==========
-.. toctree::
-   :maxdepth: 1
 
 
 Indices and tables
