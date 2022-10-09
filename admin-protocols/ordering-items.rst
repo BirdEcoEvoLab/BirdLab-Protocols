@@ -33,7 +33,7 @@ Ordering generally follows the total amount of the item/items. And based on the 
 2) If the total value is between 25,000/- and 2,50,000/-
 --------------------------------------------------------
 #. These type of items go under **Purchase Order** section and require purchase committee approval (Any three faculty members)
-#. Get quotation from three different vendors and make sure that the particulars are exactly same on all quotation.
+#. Get a quotation from three different vendors and make sure that the particulars are exactly same on all quotations.
 #. Mostly used for bulk ordering chemicals, consumables, plasticwares and equipment (like recorders, microphone etc).
 #. Once the indent is filled in (order goes to least quoted vendor among three) take Robin's signature, and then purchase committee members (For ease, you can take Robin's sign again and any other two faculty) and submit for HOD approval.
 #. After the HOD approval, submit to accounts section for approval. This generally takes few hours, best to go back in the evening around 5:30.
@@ -54,11 +54,11 @@ Ordering generally follows the total amount of the item/items. And based on the 
 #. IT department has their own indent form, which can be found on the intranet. While ordering any computer use that.
 #. For Apple products, please fill in the model and specifications of the system you are planning to order.
 #. For Windows/Linux system, do not mention the brand, write down only the specifications you are looking for.
-#. Take your specifications to IT department and get pre-approved.
+#. Take your specifications to IT department and get it pre-approved.
 #. Get Robin's signature --> Get IT approval for indent (Mr Srikant) --> Get Dr Sudipta's approval (Physics Dept) --> HOD approval --> Accounts approval --> Hand it over to purchase dept.
 #. Unlike all the other purchases, computer purchase happens over a tender.
 #. Purchase will put out a call for tender and it's open for three weeks.
-#. After the tender period, if there is a bidder then you will get notification from purchase department to evaluate the bid to confirm whether asking specifications and quoted specifications are a match.
+#. After the tender period, if there is a bidder then you will get a notification from purchase department to evaluate the bid to confirm whether asking specifications and quoted specifications are a match.
 #. If you are satisfied with the bidder, then Purchase Order will be released in favour of the least bidding vendor.
 
 
@@ -77,3 +77,5 @@ What to do once you receive the item?
 #. Test report is an acknowledgement that we have received the said items in correct condition without any damage.
 #. There are two types of Test Reports a) For Consumables b) For non-consumables. Make sure to use the correct one. TR is available from intranet (172.27.1.51)
 #. If the item/s are damaged or not in the condition the way it was supposed to be, then intimate the purchase department immediately and with relevant proof contact the supplier over email.
+#. Fill the rest report/s and enter them in the Test Report register in Purchase department and hand them over to Mr Vamshi along with original invoice.
+#. That's the end of process.
