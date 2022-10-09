@@ -17,10 +17,10 @@ Protocols
     :maxdepth: 2
     :caption: Contents:
 
-    admin-protocols/main
-    computer-protocols/main
-    field_sampling-protocols/main
-    wetlab-protocols/main
+    admin/main
+    computer/main
+    field sampling/main
+    wetlab/main
 
 Other Info
 ==========
