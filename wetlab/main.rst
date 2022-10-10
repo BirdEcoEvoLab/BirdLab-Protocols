@@ -42,9 +42,10 @@ pcr
 
    pcr/setting-up PCR
 
-
+Others
+-------
 
    .. toctree::
       :maxdepth: 1
 
-      Miscellaneous-guidelines
+      others/Miscellaneous-guidelines
