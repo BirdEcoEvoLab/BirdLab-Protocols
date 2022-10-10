@@ -1,7 +1,7 @@
 .. include:: ../links.rst
 .. |date| date:: %d %B %Y %H:%M %Z (%z)
 
-BirdLab Protocols
+Wetlab
 ======================
 
 Extraction and Extraction QC
@@ -11,9 +11,40 @@ Extraction and Extraction QC
    :maxdepth: 1
 
    extraction/phenol-chloroform-extraction
+   extraction/QC
    extraction/qiagen-kit
-   extraction/gel-visualization
 
+
+Gel
+----
 
 .. toctree::
    :maxdepth: 1
+
+   Gel/gel-visualization
+
+
+
+NGS-Workflow
+------------
+
+.. toctree::
+   :maxdepth: 1
+
+   enrichment
+   Qiaxcel
+
+pcr
+----
+
+.. toctree::
+   :maxdepth: 1
+
+   setting-up PCR
+
+
+
+   .. toctree::
+      :maxdepth: 1
+
+      Miscellaneous-guidelines 
