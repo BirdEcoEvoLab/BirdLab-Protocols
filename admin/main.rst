@@ -7,5 +7,5 @@ Admin
 .. toctree::
     :maxdepth: 1
 
-    bill-submission-guidelines
-    ordering-items
+    ./bill-submission-guidelines
+    ./ordering-items
