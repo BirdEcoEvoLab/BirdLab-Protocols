@@ -8,5 +8,5 @@ Computer
 .. toctree::
     :maxdepth: 1
 
-    computer/Data-NAS
-    computer/submitting job on hpc
+    Data/Data-NAS
+    Analysis/submitting job on hpc
