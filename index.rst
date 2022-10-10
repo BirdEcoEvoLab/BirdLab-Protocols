@@ -3,7 +3,7 @@
 .. include:: links.rst
 .. |date| date:: %d %B %Y %H:%M %Z (%z)
 
-BirdLab (skyiskand.in) documentation
+BirdLab (skyisland.in) documentation
 ===========================
 
 :Primary Author: Vinay K L
