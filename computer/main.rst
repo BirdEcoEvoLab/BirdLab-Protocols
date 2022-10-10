@@ -5,8 +5,19 @@
 Computer
 ========
 
+Data
+----
+
 .. toctree::
     :maxdepth: 1
 
     Data/Data-NAS
+
+
+Analysis
+--------
+
+.. toctree::
+    :maxdepth: 1
+    
     Analysis/submitting job on hpc
