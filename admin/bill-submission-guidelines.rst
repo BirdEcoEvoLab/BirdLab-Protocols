@@ -1,7 +1,7 @@
 .. include:: ../../links.rst
 .. |date| date:: %d %B %Y %H:%M %Z (%z)
 
-Instructions to order consumables and non-consumables/equipment.
+Bill submission guidelines.
 ================================================================
 
 
