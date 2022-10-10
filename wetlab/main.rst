@@ -31,8 +31,8 @@ NGS-Workflow
 .. toctree::
    :maxdepth: 1
 
-   enrichment
-   Qiaxcel
+   NGS-Workflow/enrichment
+   NGS-Workflow/Qiaxcel
 
 pcr
 ----
@@ -40,11 +40,11 @@ pcr
 .. toctree::
    :maxdepth: 1
 
-   setting-up PCR
+   pcr/setting-up PCR
 
 
 
    .. toctree::
       :maxdepth: 1
 
-      Miscellaneous-guidelines 
+      Miscellaneous-guidelines
