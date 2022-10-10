@@ -8,7 +8,7 @@ BirdLab (skyiskand.in) documentation
 
 :Primary Author: Vinay K L
 :Date: |date|
-:Copyright: None.
+:Copyright: None
 
 
 Protocols
