@@ -11,7 +11,7 @@ Instructions to order consumables and non-consumables/equipment.
 
 Purpose
 -------
-To get familiarize with the process of ordering lab items.
+To get familiar with the process of ordering lab items.
 
 Being a part of the lab one will have to order one or the other things, it maybe lab consumables, equipment or field items. And the procedure is slightly different for different types of items. I have tried to simplifies it as much as possible, but always check with Purchase team if you are in doubt.
 Guidelines may change from time to time owing to the changes in the guidelines from Government.
@@ -42,7 +42,7 @@ Ordering generally follows the total amount of the item/items. And based on the 
 
 3) If the items (mostly for consumables) are under **RATE CONTRACT (RC)**
 --------------------------------------------------------------------
-#. Rate Contract essentially means that some vendor has agreed to supply particular company items at 10% discounted rate. List of vendors and companies under RC will be with TA's.
+#. Rate Contract essentially means that some vendor has agreed to supply particular company items at 10% discounted rate, considering market fluctuations. List of vendors and companies under RC will be with TA's.
 #. If the item, one trying to procure is under RC, then irrespective of value of the indent, one has to prepare the **general indent**.
 #. For this, you need only one quotation, i.e from the vendor under RC.
 #. Items should be segregated based on the company and not the supplier. (Same vendor can be under RC for multiple company products, so, while ordering make sure you put together items from same company under same quotation and indent)
