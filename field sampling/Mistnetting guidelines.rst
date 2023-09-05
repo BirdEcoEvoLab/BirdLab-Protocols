@@ -23,26 +23,25 @@ A Mist-netting kit (including blood sampling) involves the following items
 #. Ropes: Jute ropes are generally used. Two ropes per net should be calculated.
 #. Mist-net Repair Kit: This kit should be carried in case there is a need to repair the net damage. The repair kit can remain at the field station.
 #. Bird Bags: Cloth bags with cotton strings to tie them must always be there in the mist-netting kit. The bags should be large enough to hold medium-sized (crow minus) birds. Around 10-20 bags should be carried with each team. The bags should be dry and clean.
-#. Bird Banding Manual.
-#. Tool Box: A proper toolbox should store all the blood sampling and measuring ringing equipment. The items below should be included in the toolbox
+#. Bird Banding Manual: Make sure to have read the two manuals <Links here> before the field deployment.
+#. Tool Box: A proper toolbox should store all the blood sampling and measuring ringing equipment. The items below should be included in the toolbox.
 #. Rings: Aluminium rings made by [BNHS or] INRING of the minimum sizes: Z, A, AB, B, C should be available. Colour rings along with their applicator can be carried if required. In the case of colour rings a separate sheet containing all the possible combinations to be carried.
-#. Ringing Plier: Authentic ringing plier purchased from Avinet /Porzana or similar bird banding equipment portal should be carried. The plier should have the facility to put rings up to size C. The pliers should be clean, smooth and not rusted.
-#. Ring opener: Authentic ring opener purchased from the authentic source, should be carried. Day to day work plier can be carried only to open rings from the thread to put it to the bird.
+#. Ringing Plier: Ringing pliers (Avinet /Porzana) should be carried. The plier should have the facility to apply rings up to size C. The pliers should be clean, smooth and not rusted.
+#. Ring opener: Ring openers should also be carried. This is to open the supplied rings and apply on the birds.
 #. Gridded board for photograph background: Green or black coloured cutting mat of the size A4 and A3 work best. If not available, 1sq.cm. grided sheet downloaded from the internet can be printed and laminated for the same purpose.
-#. Vernier Calliper: Digital vernier calliper (preferably of plastic) is suitable for the measurement of tarsi and beak. Amazon has some good ones for a cheaper price.
-#. Wing Ruler: Wing scale or wing ruler made of stainless steel, purchased form authentic bird banding equipment source should be carried. Wing ruler should have measurement marking from both the ends and should have a bent notch at one end.
+#. Vernier Calliper: A Digital vernier calliper (preferably of plastic) is suitable for the measurement of tarsi and beak. We stopped using Mitutoyo due to the sharp tips of the callipers. 
+#. Wing Ruler: A wing scale or wing ruler made of stainless steel should be carried. Wing rule should have measurement markings from both ends and a bent notch at one end.
 #. Pesola Spring Balance: Pesola spring balances of 30g, 100g, 300g and 600g should ideally be carried in their plastic cases. Digital weighing balance can also be used instead.
-#. Bird weighing cone: Plastic cones of two different sizes (small: of the size of flycatcher +/- and large: of the size of babbler +/-) should be available. The cones should be not torn or damaged.
+#. Bird weighing cone: Plastic cones of two different sizes (small: of the size of flycatcher +/- and large: of the size of babbler +/-) should be available. The cones should be intact - not torn or damaged.
 #. Permanent markers to label vials
-#. Needles: Pricking needles of the size 24 are suitable. The needles should be bought from a proper surgical shop and should be sterile.
-#. Syringes: At least 10 Syringes of 5ml or 10ml volume along with needle attached should be carried.
-#. Cotton Buds: A box of at least 100 cotton buds should be carried.
+#. Needles: Needles (of the size 24) to prick the skin of the birds should be carried. The needles should be bought from a proper surgical shop and should be sterile.
+#. Syringes: At least 10 Syringes of 5ml or 10ml volume, along with a needle attached, should be carried. This is to expel coagulated blood from the capillaries into the collection vials.
+#. Cotton Buds: A box of at least 100 cotton buds should be carried. This is to clear the area to prick the bird, and also to apply antiseptic fluid and pressure post sample collection
 #. Cotton ball
-#. Capillary tubes: BTCT (Bleeding Time Clotting Time) capillary tubes must be used. The tubes ideally should come in a cylindrical plastic container with a hole on the lid.
-#. Blood Storage Solvent: Queen’s lysis buffer or ethanol filled vials of 2ml size should be carried in 96 section box.
-#. Dettol bottle. A diluted aliquot of Dettol in water should be kept in an eppendorf for easy use.
+#. Capillary tubes: BTCT (Bleeding Time Clotting Time) capillary tubes must be used. The tubes ideally should come in a cylindrical plastic container with a hole on the lid. Use non-heparinized tubes (Heparin can interfere in PCR and other downstream processes).
+#. Blood Storage Solvent: Queen’s lysis buffer or ethanol-filled vials of 2ml size should be carried in 96 section box.
+#. Antiseptic fluid bottle. A diluted aliquot of Savon in water should be kept in an eppendorf for easy use.
 #. Label Stickers: Paper stickers with good adhesive should be carried.
-#. Permanent Markers and Pens
 #. Parafilm roll: Can be obtained from the lab at Tirupati. Should be used to seal the caps of the vials after filling them with the blood sample.
 #. FTA cards if required to take blood samples
 #. Scissors
@@ -59,7 +58,7 @@ A Mist-netting kit (including blood sampling) involves the following items
 
 B) Checking nets and poles
 --------------------------
-The mist nets should be checked thoroughly for any damage before packing for the field. All the damaged nets should be separated out and marked for the repair later. Mist nets should ideally be carried in polythene bags with their end holders tied together with the white loop secured around the other black loops.
+The mist nets should be checked thoroughly for any damage before packing for the field. All the damaged nets should be separated out and marked for repair later. Mist nets should ideally be carried in polythene bags with their end holders tied together with the white loop secured around the other black loops. Please remove any debris that may be stuck in the nets.
 This is to avoid the entanglement of the net while deploying. All the poles to be carried should be checked for any damage.
 
 C) Site Selection
