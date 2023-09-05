@@ -18,14 +18,14 @@ A) Preparation of Kit
 A Mist-netting kit (including blood sampling) involves the following items
 
 
-#. Mist nets of different lengths: The most commonly used in our lab is 15m long net while in some cases having a few 6m long nets also help target catch some species. Mist-nets should be carried in polythene bags. One bag per net.
+#. Mist nets of different lengths: The most commonly used nets in our lab are 12m long net, while in some cases, having a few 6m long nets also helps target capture of some species. Mist nets should be carried in polythene bags. One bag per net.
 #. Poles: EcoTone’s telescopic carbon fibre poles are used. We also have some metal poles. Two poles per net should be calculated
 #. Ropes: Jute ropes are generally used. Two ropes per net should be calculated.
 #. Mist-net Repair Kit: This kit should be carried in case there is a need to repair the net damage. The repair kit can remain at the field station.
-#. Bird Bags: Cloth bags with cotton strings to tie them must always be there in the mist-netting kit. The bags should be large enough to hold medium-sized (crow minus) bird. Around 10-20 bags should be carried. The bags should be dry and clean.
+#. Bird Bags: Cloth bags with cotton strings to tie them must always be there in the mist-netting kit. The bags should be large enough to hold medium-sized (crow minus) birds. Around 10-20 bags should be carried with each team. The bags should be dry and clean.
 #. Bird Banding Manual.
-#. Tool Box: A proper tools box should be there to store all the blood sampling and measuring ringing equipment. The items below should be contained in the toolbox
-#. Rings: Aluminium rings made by BNHS or INRING of the minimum sizes: Z, A, AB, B, C should be available. Colour rings along with their applicator can be carried if required. In the case of colour rings a separate sheet containing all the possible combinations to be carried.
+#. Tool Box: A proper toolbox should store all the blood sampling and measuring ringing equipment. The items below should be included in the toolbox
+#. Rings: Aluminium rings made by [BNHS or] INRING of the minimum sizes: Z, A, AB, B, C should be available. Colour rings along with their applicator can be carried if required. In the case of colour rings a separate sheet containing all the possible combinations to be carried.
 #. Ringing Plier: Authentic ringing plier purchased from Avinet /Porzana or similar bird banding equipment portal should be carried. The plier should have the facility to put rings up to size C. The pliers should be clean, smooth and not rusted.
 #. Ring opener: Authentic ring opener purchased from the authentic source, should be carried. Day to day work plier can be carried only to open rings from the thread to put it to the bird.
 #. Gridded board for photograph background: Green or black coloured cutting mat of the size A4 and A3 work best. If not available, 1sq.cm. grided sheet downloaded from the internet can be printed and laminated for the same purpose.
